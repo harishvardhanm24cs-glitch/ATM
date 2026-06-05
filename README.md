@@ -8,3 +8,4 @@
    <p>For a beginner, a finished ATM simulator shows an employer that you understand CRUD (Create, Read, Update, Delete) operations and that you can follow a logical workflow from start to finish.</p>
 
 <p>"I'm building a system that manages complex user transactions and data integrity. It’s a project designed to practice secure authentication and real-time balance calculations."</p>
+hi
